@@ -459,3 +459,6 @@
     letter-spacing: var(--letter-spacing-wider);
   }
 }
+html {
+  font-size: 20px;
+}
